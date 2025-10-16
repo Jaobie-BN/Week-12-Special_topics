@@ -1,2 +1,2 @@
-idf_component_register(SRCS "espnow_receiver_g1.c"
+idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS ".")
