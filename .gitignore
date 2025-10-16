@@ -1,0 +1,24 @@
+# ESP-IDF Build files
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.h
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Managed Components (downloaded from GitHub)
+managed_components/
+dependencies.lock
+
+# Logs
+*.log
+EOF
